@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+**/bin/
+bin-int/
+
+#Visual studio files
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+.vs/
+
+#Log files
+*.log
+
+#Python cache
+__pycache__
+
+#Premake files
+vendor/premake/bin

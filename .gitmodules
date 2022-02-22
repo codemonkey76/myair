@@ -1,0 +1,3 @@
+[submodule "MyAir/vendor/json"]
+	path = MyAir/vendor/json
+	url = http://github.com/codemonkey76/json
